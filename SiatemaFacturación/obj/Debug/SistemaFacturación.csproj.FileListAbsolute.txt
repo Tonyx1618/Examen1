@@ -1,0 +1,8 @@
+C:\Users\Anthony Retana\source\repos\SiatemaFacturación\SiatemaFacturación\bin\Debug\SiatemaFacturación.exe.config
+C:\Users\Anthony Retana\source\repos\SiatemaFacturación\SiatemaFacturación\bin\Debug\SiatemaFacturación.exe
+C:\Users\Anthony Retana\source\repos\SiatemaFacturación\SiatemaFacturación\bin\Debug\SiatemaFacturación.pdb
+C:\Users\Anthony Retana\source\repos\SiatemaFacturación\SiatemaFacturación\obj\Debug\SistemaFacturación.csproj.AssemblyReference.cache
+C:\Users\Anthony Retana\source\repos\SiatemaFacturación\SiatemaFacturación\obj\Debug\SistemaFacturación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthony Retana\source\repos\SiatemaFacturación\SiatemaFacturación\obj\Debug\SistemaFacturación.csproj.CoreCompileInputs.cache
+C:\Users\Anthony Retana\source\repos\SiatemaFacturación\SiatemaFacturación\obj\Debug\SiatemaFacturación.exe
+C:\Users\Anthony Retana\source\repos\SiatemaFacturación\SiatemaFacturación\obj\Debug\SiatemaFacturación.pdb
